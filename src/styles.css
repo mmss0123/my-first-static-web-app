@@ -21,7 +21,7 @@ main > h1 {
   color: #F0F8FF;
 }
 
-.bg-container{
+bg-container{
   background-image : url("https://www.bing.com/images/search?view=detailV2&ccid=gPLsGDkR&id=3A6E560A26EAE123E377A4BE457DB5E282708EAC&thid=OIP.gPLsGDkRf7JtS929QRSaKwHaFj&mediaurl=https%3a%2f%2fwallpapercave.com%2fwp%2fwp1971453.jpg&exph=1500&expw=2000&q=ece+background+images&simid=608008210975104503&FORM=IRPRST&ck=F243DDD352A7BDCE2147F3DBC1BED513&selectedIndex=0");
   height: 100vh;
   background-size: cover;
